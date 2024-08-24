@@ -72,7 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  weixin           : "/images/wechat.jpg"
+  weixin           : "https://convexity2.github.io/images/wechat.jpg"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
